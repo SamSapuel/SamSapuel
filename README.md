@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, My name is Dmitriy
+#### I am a Student at CTU
+![I am a Student at CTU](https://data.whicdn.com/images/329318714/original.jpg)
 
-<!--
-**SamSapuel/SamSapuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello/Dobrý den/Доброго дня 
 
-Here are some ideas to get you started:
+My name is Dmitriy Shevchenko and i am software engineering student. Welcome to my little world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: Java / Spring / JUnit /  SQL / Html / Css
+
+- 🔭 I’m currently working on myself 
+- 🌱 I’m currently learning Spring Framework basics 
+- 💬 Ask me about everything 
+- ⚡ Fun fact: 667 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamSapuel)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+
+
+
