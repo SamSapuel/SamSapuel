@@ -10,7 +10,7 @@ My name is Dmitriy Shevchenko and i am software engineering student. Welcome to 
 Skills: Java / Spring / JUnit /  SQL / Html / Css
 
 - 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning Spring Framework basics 
+- 🌱 I’m currently learning Spring Framework
 - 💬 Ask me about everything 
 - ⚡ Fun fact: 667 
 
