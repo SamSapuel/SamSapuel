@@ -4,7 +4,7 @@
 
 Hello/Dobrý den/Доброго дня 
 
-My name is Dmitriy Shevchenko and i am software engineering student. Welcome to my little world.
+My name is Dmitriy Shevchenko and i am a software engineering student. Welcome to my little world.
 
 
 Skills: Java / Spring / JUnit /  SQL / Html / Css
