@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Dmitriy
-#### I am a 20 y.o. Student at CTU
+#### I am a 21 y.o. Student at CTU
 ![I am a Student at CTU](https://data.whicdn.com/images/329318714/original.jpg)
 
 Hello/Dobrý den/Доброго дня 
