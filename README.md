@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am a 21 y.o.
+#### I'm 21 y.o.
 ![I am a Student at CTU](https://data.whicdn.com/images/329318714/original.jpg)
 
 Hello/Dobrý den/Доброго дня 
