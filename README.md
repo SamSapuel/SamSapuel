@@ -1,16 +1,16 @@
-### Hi there 👋, My name is Dmitriy
-#### I am a 21 y.o. Student at CTU
+### Hi there 👋
+#### I am a 21 y.o.
 ![I am a Student at CTU](https://data.whicdn.com/images/329318714/original.jpg)
 
 Hello/Dobrý den/Доброго дня 
 
-My name is Dmitriy Shevchenko and i am a software engineering student. Welcome to my little world.
+My name is Dmitriy and i'm a software engineer. Welcome to my little world.
 
 
-Skills: Java / Spring / JUnit /  SQL / Html / Css
+Skills: Java / Spring / JUnit /  PostgreSQL / Html / Css
 
-- 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning Spring Framework
+- 🔭 At the moment I work for Komercni Banka
+- 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about everything 
 - ⚡ Fun fact: 667 
 
